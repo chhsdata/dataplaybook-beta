@@ -12,13 +12,14 @@ author:
   url:            https://twitter.com/chhsagency
 
 # Custom vars
-version:          4.0 | May 2020
+version:          4.0.1 | May 2020
 
 github:
-  repo:           https://github.com/gellertnp/DataPlaybook
+  repo:           https://github.com/chhsdata/dataplaybook-beta
 
 # Google Analytics
 google_analytics: UA-56144207-2
 
 plugins:
   - jemoji
+ 
