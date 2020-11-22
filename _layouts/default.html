@@ -18,7 +18,12 @@
         </div>
 
       <div class="container content">
-        {{ content }}
+        {% if page.redirect == null %}
+          {{ content }} 
+        {% else %}
+          {{ page.title }} has moved to a new location - you will automatically be redirected - if not click <a href="{{ page.redirect }}">here.</a>          
+        {% endif %}  
+
       </div>
     </div>
 

@@ -1,8 +1,10 @@
 ---
-layout: default
+layout: redirected
+sitemap: false
 permalink: /plan_a_goals/
+redirect: /plan_b_goals/
 ---
-## Planning Part A: Determining Goals and Strategy
+## Planning Part A: Determining Goals and Strategy - Testing Updates
 
 ### Table of Contents:
 ###   1. [Identify Questions and Goals](#goals "goals & objectives")
