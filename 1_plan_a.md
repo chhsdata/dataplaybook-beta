@@ -1,8 +1,7 @@
 ---
 layout: default
-sitemap: false
 permalink: /plan_a_goals/
-redirect: /plan_b_goals/
+
 ---
 ## Planning Part A: Determining Goals and Strategy - Testing Updates
 

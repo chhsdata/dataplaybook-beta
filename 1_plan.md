@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title:  Planning your Data Project 
 permalink: /plan/
 ---

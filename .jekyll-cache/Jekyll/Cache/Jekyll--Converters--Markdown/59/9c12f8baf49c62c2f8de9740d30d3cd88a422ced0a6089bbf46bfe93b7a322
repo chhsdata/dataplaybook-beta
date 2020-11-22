@@ -1,4 +1,4 @@
-I")<h2 id="planning-part-a-determining-goals-and-strategy---testing-updates">Planning Part A: Determining Goals and Strategy - Testing Updates</h2>
+I")<h2 id="planning-part-a-determining-goals-and-strategy---testing-updates">Planning Part A: Determining Goals and Strategy - Testing Updates</h2>
 
 <h3 id="table-of-contents">Table of Contents:</h3>
 <h3 id="1-identify-questions-and-goals">1. <a href="#goals" title="goals &amp; objectives">Identify Questions and Goals</a></h3>
@@ -145,7 +145,7 @@ Example Use Case Diagram (<a href="https://www.lucidchart.com/pages/uml-use-case
 </table>
 
 <blockquote>
-  <p><strong>Example:</strong> 
+  <p><strong>Example:</strong>
 e.g. <strong>If</strong> I hire more staff for my project (input), <strong>then</strong> I can collect more data about who would benefit from my service (activity). <strong>If</strong> we have more data, <strong>then</strong> our predictive model will be more accurate (output). <strong>If</strong> our model is more accurate, <strong>then</strong> we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on.</p>
 </blockquote>
 
