@@ -3,7 +3,7 @@ layout: redirected
 title: 4. Evaluate
 sitemap: false
 permalink: /evaluate/
-redirected_to: /plan/
+redirect_to: /plan/
 ---
 ## Play 04. Evaluate: outcomes & impacts
 

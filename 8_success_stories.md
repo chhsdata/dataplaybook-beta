@@ -3,7 +3,7 @@ layout: redirected
 title: Success Stories
 sitemap: false
 permalink: /success_stories/
-redirected_to: /plan/
+redirect_to: /plan/
 ---
 
 CHHS Data-Driven Success Stories demonstrate how we leverage data and technology to improve services to Californians and become more client centric.  The stories aim to create awareness of innovative ideas and improve interdepartmental coordination by providing a platform to collaborate, share ideas, and expand CHHS’s data culture.

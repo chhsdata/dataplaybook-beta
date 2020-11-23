@@ -1,9 +1,9 @@
 ---
-layout: page
+layout: redirected
 title: 3. Implement
 sitemap: false
 permalink: /implement/
-redirected_to: /plan/
+redirect_to: /plan/
 ---
 ## Play 03. Implement: plan & strategy
 

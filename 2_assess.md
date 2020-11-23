@@ -3,7 +3,7 @@ layout: redirected
 title: 2. Assess
 sitemap: false
 permalink: /assess/
-redirected_to: /plan/
+redirect_to: /plan/
 ---
 ## Play 02. Assess: tools & capabilities
 

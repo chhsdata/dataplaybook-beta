@@ -3,7 +3,7 @@ layout: redirected
 title: 5. Share
 sitemap: false
 permalink: /share/
-redirected_to: /plan/
+redirect_to: /plan/
 ---
 ## Play 05. Share: progress & results
 

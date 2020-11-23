@@ -3,7 +3,7 @@ layout: redirected
 sitemap: false
 title: 1. Define
 permalink: /define/
-redirected_to: /plan/
+redirect_to: /plan/
 ---
 ## Play 01. Define: goals & objectives
 
