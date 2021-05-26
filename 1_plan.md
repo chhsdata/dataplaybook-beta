@@ -19,7 +19,7 @@ Whether you’re managing a team, analyzing or cleaning a portion the data, or d
 >### This section will: 
 >  * Help you identify the right questions and **goals** to guide your data collection process
 >  * Describe **what data you will need** to successfully complete your project
->  * Provide helpful frameworks to jump-start your **strategic planning  process**
+>  * Provide helpful frameworks to jump-start your **strategic planning process**
 
 | For Managers | For Analysts |
 | ----------- | ----------- |

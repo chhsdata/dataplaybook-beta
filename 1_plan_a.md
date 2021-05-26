@@ -1,8 +1,9 @@
 ---
 layout: default
 permalink: /plan_a_goals/
+
 ---
-## Planning Part A: Determining Goals and Strategy
+## Planning Part A: Determining Goals and Strategy - Testing Updates
 
 ### Table of Contents:
 ###   1. [Identify Questions and Goals](#goals "goals & objectives")
@@ -20,7 +21,7 @@ First, a bit about goals: for your project to execute smoothly, it is best to ch
 
 ![SMART Goal Framework]({{ site.baseurl }}/assets/images/01_figure05.png "SMART Goal Framework")
 
-| **Hint:** Goals often fall into one of the following categories: |
+| **Hint:** Goals often fall into one of the following categories:|
 |---------|
 | - **Increase** something (e.g. increase healthy behaviors in a population) |
 | - **Make** something  (e.g. produce a mapping/visualization of all COVID-19 cases across California) |
@@ -39,7 +40,7 @@ Utilize a **strategic planning framework** such as the use case diagram or a log
 
 >### **Strategy Tip:** Find the *action words* that best describe the work you’ll do:
 >
->Action words are verbs that describe how you will approach each task in this project. They don’t describe your intended outcome (i.e. increase and reduce are not action words); rather, they describe roles you will take throughout your project to assure a successful outcome. 
+>Action words are verbs that describe how you will approach each task in this project. They don’t describe your intended outcome (i.e. increase and reduce are not action words); rather, they describe roles you will take throughout your project to assure a successful outcome.
 >
 >If you are creating a product:
 >  * Update, Upgrade, Develop, Create, Implement, Evaluate, Produce
@@ -53,7 +54,7 @@ Example Use Case Diagram ([lucidchart.com](https://www.lucidchart.com/pages/uml-
 
 ## <a name="usecase"></a> The Use Case Diagram
 
-This framework is most helpful for projects where you intend to **build some sort of system** (e.g. website, smart phone app, etc.) that your users must interact with. You also must use a **Business Use Case** for any data you request using the Data Sharing Agreement form. 
+This framework is most helpful for projects where you intend to **build some sort of system** (e.g. website, smart phone app, etc.) that your users must interact with. You also must use a **Business Use Case** for any data you request using the Data Sharing Agreement form.
 
 >#### A Use Case Diagram will…
 >  * **Identify** the goals of system-user interactions
@@ -71,7 +72,7 @@ Also check out this [Online resource](https://online.visual-paradigm.com/diagram
 
 ## <a name="logicmodel"></a> The Logic Model
 
-The logic model framework focuses on **visualizing the relationship** between **inputs**, **outcomes**, and **costs** associated with your project. It is a **graphical model** where each component (or “phase”) of your project relates to a list of intended effects in **an implicit, ‘if-then’ way**. 
+The logic model framework focuses on **visualizing the relationship** between **inputs**, **outcomes**, and **costs** associated with your project. It is a **graphical model** where each component (or “phase”) of your project relates to a list of intended effects in **an implicit, ‘if-then’ way**.
 
 ![Flow of Logic Model]({{ site.baseurl }}/assets/images/01_figure07.png "Flow of Logic Model")
 
@@ -85,14 +86,14 @@ The logic model framework focuses on **visualizing the relationship** between **
 | **6. Assumptions:** Your beliefs about the program and the resources involved (including how successful you you think it will be or the challenges you may face) |
 | **7. Moderators:** Contextual factors that are out of control of the program but may help or hinder your efforts. These may influence participation, implementation, achievement of your outcomes. |
 
-> **Example:** 
->e.g. **If** I hire more staff for my project (input), **then** I can collect more data about who would benefit from my service (activity). **If** we have more data, **then** our predictive model will be more accurate (output). **If** our model is more accurate, **then** we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on. 
+> **Example:**
+>e.g. **If** I hire more staff for my project (input), **then** I can collect more data about who would benefit from my service (activity). **If** we have more data, **then** our predictive model will be more accurate (output). **If** our model is more accurate, **then** we can increase outreach to populations who are more likely to benefit from our service (outcome) and so on.
 
-To begin, simply **create six headers** as is shown in the diagram above — this can be done by hand, with sticky notes, or online. 
+To begin, simply **create six headers** as is shown in the diagram above — this can be done by hand, with sticky notes, or online.
 
 >### Guiding Questions:
 >1. Identifying Impact: What measurable change are you seeking to achieve in the long-term?
->2. Identifying Outcomes: What measurable changes are you seeking to achieve in the short-term? 
+>2. Identifying Outcomes: What measurable changes are you seeking to achieve in the short-term?
 >3. Identifying Outputs: What tangible outcomes can you measure immediately following the implementation of your product/project?
 >4. Identifying Activities: What are some high-level steps you must take to complete your project?
 
