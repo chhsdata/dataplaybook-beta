@@ -1,0 +1,22 @@
+#printedpages {
+  display: none;
+}
+
+@media print {
+  #sidebar {
+    visibility: hidden;
+    display: none;
+  }
+
+  .pagination {
+    visibility: hidden;
+    display: none;
+  }
+
+  #printedpages {
+    display: inline;
+  }
+}
+
+
+

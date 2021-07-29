@@ -35,3 +35,14 @@ If you need help accessing any of the materials in the Playbook, please contact 
   <span class="pagination-item older">&laquo; Prev</span>
   <a class="pagination-item newer" href="{{ site.baseurl }}/plan">Next &raquo;</a>
 </div>
+
+
+<div id="printedpages">
+  {% assign pages_list = site.pages %}
+  {% for node in pages_list %}
+    {% if node.printable == true %}  
+      {% capture to_include %}{% include_relative {{node.path | prepend: 'includes/'}} %}{% endcapture %}
+      {{ to_include | markdownify }}
+    {% endif %}
+  {% endfor %}
+</div>
