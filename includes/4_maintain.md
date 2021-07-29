@@ -53,7 +53,7 @@ ___
 
 ## <a name="automate"></a> Part C: Automating the Maintenance of Your Dataset
 
-A number of incredibly valuable research projects and compiled/cleaned datasets **become useless** over time because **they are not routinely updated with the latest data**. If your project required you to compile a dataset from publicly-available, regularly updated datasets (such as census data), then consider automating your data’s year-to-year updates so it remains  valuable for years to come. This is a straightforward process that any technical employee can do.
+A number of incredibly valuable research projects and compiled/cleaned datasets **become useless** over time because **they are not routinely updated with the latest data**. If your project required you to compile a dataset from publicly-available, regularly updated datasets (such as U.S. Census Bureau data), then consider automating your data’s year-to-year updates so it remains  valuable for years to come. This is a straightforward process that any technical employee can do.
 
   First, see the [Data De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) to ensure your dataset is de-identified and all redacted information removed. Next, go to the [CHHS Open Data Portal](https://data.chhs.ca.gov/). [OpenGov.com](OpenGov.com), the host of the data portal, runs the site on an open-source data platform called [CKAN](ckan.org) which provides a FileStore API that enables **automation of dataset updates**. See Python documentation [here](https://docs.ckan.org/en/latest/maintaining/filestore.html#filestore-api).
 
