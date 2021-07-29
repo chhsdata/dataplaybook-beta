@@ -2,8 +2,8 @@
 title:            DATA PLAYBOOK
 tagline:          'California Health and Human Services Agency'
 description:      'CHHS Data Playbook Description'
-url:              'https://ontargetcomputing.github.io/dataplaybook-beta'
-baseurl:          ''
+url:              'https://chhsdata.github.io/dataplaybook-beta'
+baseurl:          'https://chhsdata.github.io/dataplaybook-beta'
 
 # markdown:         CommonMarkGhPages
 
