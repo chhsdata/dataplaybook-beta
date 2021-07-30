@@ -26,7 +26,7 @@ ___
 
 ## <a name="lifecycle"></a> Part B: The Product Lifecycle
 
-When planning for long-term maintenance of a your project, it can be helpful to look at the principles behind long-term maintenance of a product. The product lifecycle is the natural process of conception and decline undergone by any product. It is made up of **four stages**:
+When planning for long-term maintenance of your project, it can be helpful to look at the principles behind long-term maintenance of a product. The product lifecycle is the natural process of conception and decline undergone by any product. It is made up of **four stages**:
 
 >1. Introductory Stage:
 >  * Also the "Market Development” stage; preliminary need of the user has been identified, but not proven demand exists
@@ -53,9 +53,9 @@ ___
 
 ## <a name="automate"></a> Part C: Automating the Maintenance of Your Dataset
 
-A number of incredibly valuable research projects and compiled/cleaned datasets **become useless** over time because **they are not routinely updated with the latest data**. If your project required you to compile a dataset from publicly-available, regularly updated datasets (such as census data), then consider automating your data’s year-to-year updates so it remains  valuable for years to come. This is a straightforward process that any technical employee can do.
+A number of incredibly valuable research projects and compiled/cleaned datasets **become useless** over time because **they are not routinely updated with the latest data**. If your project required you to compile a dataset from publicly-available, regularly updated datasets (such as U.S. Census Bureau data), then consider automating your data’s year-to-year updates so it remains  valuable for years to come. This is a straightforward process that any technical employee can do.
 
-  First, see the [Data De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) to ensure your dataset is de-identified and all redacted information removed. Next, go to the [CHHS Open Data Portal](https://data.chhs.ca.gov/). [OpenGov.com](OpenGov.com), the host of the data portal, runs the site on an open-source data platform called [CKAN](ckan.org) which provides a FileStore API that enables **automation of dataset updates**. See Python documentation [here](https://docs.ckan.org/en/latest/maintaining/filestore.html#filestore-api).
+  First, see the [Data De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) to ensure your dataset is de-identified and all confidential information removed. Next, go to the [CHHS Open Data Portal](https://data.chhs.ca.gov/). [OpenGov.com](OpenGov.com), the host of the data portal, runs the site on an open-source data platform called [CKAN](ckan.org) which provides a FileStore API that enables **automation of dataset updates**. See Python documentation [here](https://docs.ckan.org/en/latest/maintaining/filestore.html#filestore-api).
 
 >[Click for Back to Top](#top_4)
 
@@ -75,7 +75,7 @@ Understanding iterative product development — or the the process of prototypin
 
 To identify **trends** in customer satisfaction, ask feedback at regular intervals, and track them over time. 
 Some popular ways to measure overall customer satisfaction trends are:
-* [Net Promoter Score (NPS)](https://blog.hubspot.com/customer-success/what-is-nps): A single question, answered by with a scale of 1 to 10 “How likely are you to refer us as a product or service?”:
+* [Net Promoter Score (NPS)](https://blog.hubspot.com/customer-success/what-is-nps): A single question, answered with a scale of 1 to 10 “How likely are you to refer us as a product or service?”:
 * **Customer Satisfaction Score (CSAT)** is a measurement of how satisfied a customer is with a specific interaction with a company: “Please rate the quality of service provided to you”
 * **Social media monitoring**: use google tracking to keep up with what people are saying about your product or service
 

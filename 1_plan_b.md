@@ -23,9 +23,9 @@ Ask yourself: Do you have the **Support, Knowledge, and Resources** to Complete 
 
 | - Do my managers/directors have the bandwidth to support me? |
 | - Do I/my team have enough expertise to complete this project? |
-| - Who is my department’s **Data Coordinator**? (The individual responsible for knowing the data assets held by your department) <br />- Contact CHHS@osi.ca.gov to find your Departments Data Coordinator |
 | - Do I have access to the data I need to complete the project? |
 | - Do I know the statistical methods required to analyze my data? |
+| - Who is my department’s **Data Coordinator**? (The individual responsible for knowing the data assets held by your department) <br />- Contact <CHHS@osi.ca.gov> to find your Departments Data Coordinator |
 
 ### Step 2: Review Your Program Data
 
@@ -37,11 +37,11 @@ Your **program data** is the core data of this project — it’s the specific m
 >  * I want to **create** product or service that positively impacts a community
 >  * I want to **look at existing data** to find trends and patterns that people care about
 
-It can be useful to review all your data assets with these questions in mind. Contact your department’s data coordinator for more information about the types of program data you collect in your department by emailing CHHS@osi.ca.gov.
+It can be useful to review all your data assets with these questions in mind. Contact your department’s data coordinator for more information about the types of program data you collect in your department by emailing <CHHS@osi.ca.gov>.
 
 ## <a name="analysts"></a> For Managers:
 
-  Managing a team at CHHS is challenging —  in addition to setting and working toward your own personal goals, you must also assess the performance of your team and support their continuing learning; set the broader goals that guide larger initiatives, programs, or departments; and work toward capacity building in analytics, data literacy/governance, and much more.  
+  Managing a team at CHHS is challenging —  in addition to setting and working toward your program goals, you must also assess the performance of your team and support their continuing learning; set the broader goals that guide larger initiatives, programs, or departments; and work toward capacity building in analytics, data literacy/governance, and much more.  
   The following section is written for a wide range of manager roles, including the larger cohort of managers who supervise analysts and technical employees (SSM1s) to the smaller cohort of branch-level directors or managers working on capacity, vision, and strategy of their department. 
 
 ### Part 1:  Assessing Capability
@@ -51,7 +51,7 @@ As a manager, you may be in charge of managing the overall performance and strat
 | The following section contains a number of frameworks and resources to assess your Team’s Capabilities… |
 |----------|
 | …related to projects and programs |
-| - **Assessing Readiness**: considering the scope, risks, limitations of your data project<br />- **Measuring Performance**: Setting Key Performance Indicators (KPIs) for the project and your team<br />- **Determining outcome measures**: benchmark, baseline, and comparative data |
+| - **Assessing Readiness**: considering the scope, risks, limitations of your data project<br />- **Measuring Performance**: Setting Key Performance Indicators (KPIs) for the project and your team<br />- **Determining Outcome Measures**: benchmark, baseline, and comparative data |
 | …at the department level |
 | - **Strategic Use of Data**: how effectively does the department utilize data to inform decisions and strategy? <br />- **Capacity Building**: Improving internal capacity, assessing management strategy & organization<br />- **Data Governance & Management**: Management & Security of Data, Improving Data Literacy, data de-identification guidelines |
 

@@ -14,7 +14,7 @@ A dataset that has duplicate entries or misspelled words can skew your outcomes.
 
 ### CHHS Data De-Identification Guidelines
 
-  Every single employee of CHHS — whether working with data in a technical capacity, as a manager, an analyst, or otherwise -- is responsible for ensuring **no personal or redacted information is ever shared throughout their project**. The [De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) will walk you through this process. 
+  Every single employee of CHHS — whether working with data in a technical capacity, as a manager, an analyst, or otherwise -- is responsible for ensuring **no personal or confidential information is ever shared throughout their project**. The [De-Identification Guidelines](https://chhsdata.github.io/dataplaybook/documents/CHHS-DDG-V1.0-092316.pdf) will walk you through this process. 
   As Departments classify data tables and catalog their publishable state data, they should be mindful of legal and policy restrictions on publication of certain kinds of data. The CHHS Data Subcommittee put together the following guidelines to ensure a standard of data governance across CHHS. 
 ![De Identification Contents]({{ site.baseurl }}/assets/images/03_figure05.png)
   The CHHS Data De-Identification Guidelines support CHHS governance goals to reduce inconsistency of practices across Departments, align standards used across Departments, facilitate the release of useful data to the public, promote transparency of state government, and support other CHHS initiatives, such as the CHHS Open Data Portal.

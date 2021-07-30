@@ -13,23 +13,23 @@ ___
 
   The final step of the planning process is also **the most important** and **crucial** to successful execution of your project: determining what data you need and where you will find it. 
   This step can be time-consuming and frustrating, but the effort you put in will pay itself back ten-fold when you find yourself  sitting down to start data analysis. Accurate, validated, and comprehensive data is the cornerstone to any data-driven initiative. It is critical to prioritize reliability and integrity of the data in order to ensure the legitimacy of your findings. 
-  In most data-driven companies, the **“80/20 Rule”** applies to data projects: 80% of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20% spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. 
+  In most data-driven companies, the **“80/20 Rule”** applies to data projects: 80 percent of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20 percent spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. 
   In this section, you’ll find information on **accessing Internal Data (both within your department and in others)** as well as **External Data** (data owned by some outside agency/organization, and typically publicly available). Use the **Process Flow Chart** on the following page to choose which resource — the Data Sharing Agreement, the Open Data Portal, your department’s stored data, or publicly available data— is appropriate for each of your data sources. 
 
 ![resource flow]({{ site.baseurl }}/assets/images/01c_figure01.png )
 
 ## <a name="program"></a> Option 1: Program Data
 
-In most cases, you’ll be working with your **Program Data** — data that is owned by your department and collected by or for your program. This data resides within your department, and is easily accessible through your department’s **Data Coordinator**, who is your first resource to seek out when you need help thinking of what data to source for your project or where to find it. Please email CHHS@osi.ca.gov for help with contacting your department’s data coordinator. 
+In most cases, you’ll be working with your **Program Data** — data that is owned by your department and collected by or for your program. This data resides within your department, and is easily accessible through your department’s **Data Coordinator**, who is your first resource to seek out when you need help thinking of what data to source for your project or where to find it. Please email <CHHS@osi.ca.gov> for help with contacting your department’s data coordinator. 
 
 ## <a name="departments"></a> Option 2: Data in Other Departments
 
-  In a few cases, you may find that your department does not have enough data for you to proceed with data analysis. To ensure you have a sufficient amount of data to being your analysis, you are encouraged to look to other departments’ data assets and determine if they'd be appropriate for your project.  
+  In a few cases, you may find that your department does not have enough data for you to proceed with data analysis. To ensure you have a sufficient amount of data to begin your analysis, you are encouraged to look to other departments’ data assets and determine if they'd be appropriate for your project.  
   Your first step to finding data in other departments is to check the CHHS [Open Data Portal](https://data.chhs.ca.gov/), our database for all CHHS data that is publicly-available.
 
 ### Data Sharing Agreement:
 
-  Accessing private data in other departments is dictated by the **CHHS Data Sharing Agreement**, a [legal document](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS&nbsp;Data&nbsp;Sharing&nbsp;-&nbsp;Legal Agreement.pdf) that entitles any department to accessing another’s data assets through a [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Form.docx). Only proceed  with this section if you’ve (1) decided that some of  the data you need is **not already available through your department** and (2) is **NOT found on the [Open Data Portal](https://data.chhs.ca.gov/),** then this is your next step.
+  Accessing private data in other departments is dictated by the **CHHS Data Sharing Agreement**, a [legal document](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS&nbsp;Data&nbsp;Sharing&nbsp;-&nbsp;Legal Agreement.pdf) that entitles departments under CHHS to access the other CHHS department's data assets through a [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Form.docx). Only proceed  with this section if you’ve (1) decided that some of  the data you need is **not already available through your department** and (2) is **NOT found on the [Open Data Portal](https://data.chhs.ca.gov/),** then this is your next step.
 
 >**Note:** Read the Data De-Identification Guidelines (in Section 2, Part 1: Cleaning/De-Identifying your Dataset) before sharing any data from your department.
 
