@@ -26,7 +26,7 @@ ___
 
 ## <a name="lifecycle"></a> Part B: The Product Lifecycle
 
-When planning for long-term maintenance of a your project, it can be helpful to look at the principles behind long-term maintenance of a product. The product lifecycle is the natural process of conception and decline undergone by any product. It is made up of **four stages**:
+When planning for long-term maintenance of your project, it can be helpful to look at the principles behind long-term maintenance of a product. The product lifecycle is the natural process of conception and decline undergone by any product. It is made up of **four stages**:
 
 >1. Introductory Stage:
 >  * Also the "Market Development” stage; preliminary need of the user has been identified, but not proven demand exists
@@ -75,7 +75,7 @@ Understanding iterative product development — or the the process of prototypin
 
 To identify **trends** in customer satisfaction, ask feedback at regular intervals, and track them over time. 
 Some popular ways to measure overall customer satisfaction trends are:
-* [Net Promoter Score (NPS)](https://blog.hubspot.com/customer-success/what-is-nps): A single question, answered by with a scale of 1 to 10 “How likely are you to refer us as a product or service?”:
+* [Net Promoter Score (NPS)](https://blog.hubspot.com/customer-success/what-is-nps): A single question, answered with a scale of 1 to 10 “How likely are you to refer us as a product or service?”:
 * **Customer Satisfaction Score (CSAT)** is a measurement of how satisfied a customer is with a specific interaction with a company: “Please rate the quality of service provided to you”
 * **Social media monitoring**: use google tracking to keep up with what people are saying about your product or service
 

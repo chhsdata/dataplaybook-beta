@@ -37,7 +37,7 @@ ___
 * [SMART Goal checklist](https://www.mindtools.com/pages/article/smart-goals.htm)
 * [lucidchart.com](https://www.lucidchart.com/pages/uml-use-case-diagram) will help you create a use case diagram
 * [Visual Paradigm](https://online.visual-paradigm.com/diagrams/solutions/free-use-case-diagram-tool/) will also help you create a use case diagram
-* For managers, [key Performance Indicators](http://kpilibrary.com/) (KPIs) are also a great framework for measuring performance relative to your goals. 
+* For managers, [Key Performance Indicators](http://kpilibrary.com/) (KPIs) are also a great framework for measuring performance relative to your goals. 
 * Check out [this resource](https://kpi.org/KPI-Basics) to learn what they are, why they work, and how to set effective KPIs
 * Data readiness: Harvard’s [Strategic Use of Data Self-Assessment Guide](https://sdp.cepr.harvard.edu/files/cepr-sdp/files/sdp-rubric-self-asssessment.pdf) offers a useful template.
 * [Analytics Capability Assessment for Human Service Agencies](https://chhsdata.github.io/dataplaybook/documents/APHSA-Analytic-Capability-Roadmap-1-0-for-Human-Services-Agencies.pdf) gives more specific data readiness guidance.

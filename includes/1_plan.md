@@ -9,7 +9,7 @@
 ___
 
 **Taking the time to plan your project is essential.** 
-Whether you’re managing a team, analyzing or cleaning a portion the data, or drawing conclusions from your findings, completing **any portion of the project** requires a great deal of thought and planning. In the following section, we’ll provide a clear, step-by-step guide to the entire planning process, including everything you need to know about **creating goals, determining a plan, and getting your data.** It is our hope that you leave this section with a detailed and specific plan, and the confidence that you have the tools to carry out a successful project. 
+Whether you’re managing a team, analyzing or cleaning a portion of data, or drawing conclusions from your findings, completing **any portion of the project** requires a great deal of thought and planning. In the following section, we’ll provide a clear, step-by-step guide to the entire planning process, including everything you need to know about **creating goals, determining a plan, and getting your data.** It is our hope that you leave this section with a detailed and specific plan, and the confidence that you have the tools to carry out a successful project. 
 
 >### This section will: 
 >  * Help you identify the right questions and **goals** to guide your data collection process
@@ -18,7 +18,7 @@ Whether you’re managing a team, analyzing or cleaning a portion the data, or d
 
 | For Managers | For Analysts |
 | ----------- | ----------- |
-| - Setting KPIs and measuring performance | - Getting the data you need — list of Useful contacts |
+| - Setting Key Performance Indicators (KPIs) and measuring performance | - Getting the data you need — list of Useful contacts |
 | - Assessing your department’s data organization and data strategy | - All things public data |
 | - Assessing Readiness and Resources | - Review of Data Sharing Agreement and Simplifying Interdepartmental Access to Data |
 
@@ -132,9 +132,9 @@ Ask yourself: Do you have the **Support, Knowledge, and Resources** to Complete 
 
 | - Do my managers/directors have the bandwidth to support me? |
 | - Do I/my team have enough expertise to complete this project? |
-| - Who is my department’s **Data Coordinator**? (The individual responsible for knowing the data assets held by your department) <br />- Contact CHHS@osi.ca.gov to find your Departments Data Coordinator |
 | - Do I have access to the data I need to complete the project? |
 | - Do I know the statistical methods required to analyze my data? |
+| - Who is my department’s **Data Coordinator**? (The individual responsible for knowing the data assets held by your department) <br />- Contact <CHHS@osi.ca.gov> to find your Departments Data Coordinator |
 
 ### Step 2: Review Your Program Data
 
@@ -146,11 +146,11 @@ Your **program data** is the core data of this project — it’s the specific m
 >  * I want to **create** product or service that positively impacts a community
 >  * I want to **look at existing data** to find trends and patterns that people care about
 
-It can be useful to review all your data assets with these questions in mind. Contact your department’s data coordinator for more information about the types of program data you collect in your department by emailing CHHS@osi.ca.gov.
+It can be useful to review all your data assets with these questions in mind. Contact your department’s data coordinator for more information about the types of program data you collect in your department by emailing <CHHS@osi.ca.gov>.
 
 ## <a name="analysts"></a> For Managers:
 
-  Managing a team at CHHS is challenging —  in addition to setting and working toward your own personal goals, you must also assess the performance of your team and support their continuing learning; set the broader goals that guide larger initiatives, programs, or departments; and work toward capacity building in analytics, data literacy/governance, and much more.  
+  Managing a team at CHHS is challenging —  in addition to setting and working toward your program goals, you must also assess the performance of your team and support their continuing learning; set the broader goals that guide larger initiatives, programs, or departments; and work toward capacity building in analytics, data literacy/governance, and much more.  
   The following section is written for a wide range of manager roles, including the larger cohort of managers who supervise analysts and technical employees (SSM1s) to the smaller cohort of branch-level directors or managers working on capacity, vision, and strategy of their department. 
 
 ### Part 1:  Assessing Capability
@@ -160,7 +160,7 @@ As a manager, you may be in charge of managing the overall performance and strat
 | The following section contains a number of frameworks and resources to assess your Team’s Capabilities… |
 |----------|
 | …related to projects and programs |
-| - **Assessing Readiness**: considering the scope, risks, limitations of your data project<br />- **Measuring Performance**: Setting Key Performance Indicators (KPIs) for the project and your team<br />- **Determining outcome measures**: benchmark, baseline, and comparative data |
+| - **Assessing Readiness**: considering the scope, risks, limitations of your data project<br />- **Measuring Performance**: Setting Key Performance Indicators (KPIs) for the project and your team<br />- **Determining Outcome Measures**: benchmark, baseline, and comparative data |
 | …at the department level |
 | - **Strategic Use of Data**: how effectively does the department utilize data to inform decisions and strategy? <br />- **Capacity Building**: Improving internal capacity, assessing management strategy & organization<br />- **Data Governance & Management**: Management & Security of Data, Improving Data Literacy, data de-identification guidelines |
 
@@ -214,23 +214,23 @@ ___
 
   The final step of the planning process is also **the most important** and **crucial** to successful execution of your project: determining what data you need and where you will find it. 
   This step can be time-consuming and frustrating, but the effort you put in will pay itself back ten-fold when you find yourself  sitting down to start data analysis. Accurate, validated, and comprehensive data is the cornerstone to any data-driven initiative. It is critical to prioritize reliability and integrity of the data in order to ensure the legitimacy of your findings. 
-  In most data-driven companies, the **“80/20 Rule”** applies to data projects: 80% of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20% spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. 
+  In most data-driven companies, the **“80/20 Rule”** applies to data projects: 80 percent of your work will be spent finding, retrieving, cleaning, and organizing your data, and only 20 percent spent on actual data analysis. So don’t be surprised if this process seems daunting, and don’t rush through it. 
   In this section, you’ll find information on **accessing Internal Data (both within your department and in others)** as well as **External Data** (data owned by some outside agency/organization, and typically publicly available). Use the **Process Flow Chart** on the following page to choose which resource — the Data Sharing Agreement, the Open Data Portal, your department’s stored data, or publicly available data— is appropriate for each of your data sources. 
 
 ![resource flow]({{ site.baseurl }}/assets/images/01c_figure01.png )
 
 ## <a name="program"></a> Option 1: Program Data
 
-In most cases, you’ll be working with your **Program Data** — data that is owned by your department and collected by or for your program. This data resides within your department, and is easily accessible through your department’s **Data Coordinator**, who is your first resource to seek out when you need help thinking of what data to source for your project or where to find it. Please email CHHS@osi.ca.gov for help with contacting your department’s data coordinator. 
+In most cases, you’ll be working with your **Program Data** — data that is owned by your department and collected by or for your program. This data resides within your department, and is easily accessible through your department’s **Data Coordinator**, who is your first resource to seek out when you need help thinking of what data to source for your project or where to find it. Please email <CHHS@osi.ca.gov> for help with contacting your department’s data coordinator. 
 
 ## <a name="departments"></a> Option 2: Data in Other Departments
 
-  In a few cases, you may find that your department does not have enough data for you to proceed with data analysis. To ensure you have a sufficient amount of data to being your analysis, you are encouraged to look to other departments’ data assets and determine if they'd be appropriate for your project.  
+  In a few cases, you may find that your department does not have enough data for you to proceed with data analysis. To ensure you have a sufficient amount of data to begin your analysis, you are encouraged to look to other departments’ data assets and determine if they'd be appropriate for your project.  
   Your first step to finding data in other departments is to check the CHHS [Open Data Portal](https://data.chhs.ca.gov/), our database for all CHHS data that is publicly-available.
 
 ### Data Sharing Agreement:
 
-  Accessing private data in other departments is dictated by the **CHHS Data Sharing Agreement**, a [legal document](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS&nbsp;Data&nbsp;Sharing&nbsp;-&nbsp;Legal Agreement.pdf) that entitles any department to accessing another’s data assets through a [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Form.docx). Only proceed  with this section if you’ve (1) decided that some of  the data you need is **not already available through your department** and (2) is **NOT found on the [Open Data Portal](https://data.chhs.ca.gov/),** then this is your next step.
+  Accessing private data in other departments is dictated by the **CHHS Data Sharing Agreement**, a [legal document](https://chhsdata.github.io/dataplaybook/documents/datasharing/CHHS&nbsp;Data&nbsp;Sharing&nbsp;-&nbsp;Legal Agreement.pdf) that entitles the departments under CHHS to access the other CHHS department's data assets through a [Business Use Case Proposal](https://chhsdata.github.io/dataplaybook/documents/datasharing/Business&nbsp;Use&nbsp;Case&nbsp;Proposal&nbsp;-&nbsp;Form.docx). Only proceed  with this section if you’ve (1) decided that some of  the data you need is **not already available through your department** and (2) is **NOT found on the [Open Data Portal](https://data.chhs.ca.gov/),** then this is your next step.
 
 >**Note:** Read the Data De-Identification Guidelines (in Section 2, Part 1: Cleaning/De-Identifying your Dataset) before sharing any data from your department.
 
